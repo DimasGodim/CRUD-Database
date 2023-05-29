@@ -1,0 +1,6 @@
+fastapi==0.68.2
+uvicorn[standard]==0.15.0
+pymongo
+mysql-connector-python
+pydantic
+Pillow
